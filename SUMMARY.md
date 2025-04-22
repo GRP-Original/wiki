@@ -38,6 +38,7 @@
 * [💊 Was ist New Life](erklaerung/new-life.md)
 * [☄ Was ist Baiting](erklaerung/readme-1.md)
 * [📺 Was ist Meta-Gaming](was-ist/was-ist-meta-gaming.md)
+* [👨👨👦 Was ist Drittpartei](erklaerung/drittpartei.md)
 * [🗣 Was ist IC-OOC](was-ist/was-ist-ic-ooc.md)
 * [🥲 Was ist OOC-MAD](was-ist/was-ist-ooc-mad.md)
 
