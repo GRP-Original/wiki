@@ -11,7 +11,6 @@
   
 ## Erklärung
 
-* [☄ Baiting](erklaerung/readme-1.md))
 * [👨👨👦 Drittpartei](erklaerung/drittpartei.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
@@ -23,23 +22,25 @@
 * [🎤 GRP-Voice](erklaerung/grp-voice.md)
 * [🗺 illegale Routen](erklaerung/illegale-routen.md)
 * [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
-* [💊 New Life](erklaerung/new-life.md)
-* [🆘 Power RP](erklaerung/power-rp.md)
-* [🔪 RDM](erklaerung/rdm.md)
 * [📘 Staatsfraktion](erklaerung/staatsfraktion.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
 * [🚛 Truckerjob](erklaerung/trucker.md)
-* [🚙 VDM](erklaerung/vdm.md)
 * [🏬 Walmart](erklaerung/werkbank.md)
 * [🔧 Werkbank](erklaerung/werkbank.md)
 
 ## WAS IST
 
-* [⛈ Was ist FailRP](was-ist/was-ist-failrp.md)
-* [🗣 Was ist IC-OOC](was-ist/was-ist-ic-ooc.md)
-* [📺 Was ist Meta-Gaming](was-ist/was-ist-meta-gaming.md)
-* [🥲 Was ist OOC-MAD](was-ist/was-ist-ooc-mad.md)
 * [🎮 Was ist RP](was-ist/was-ist-rp.md)
+* [⛈ Was ist FailRP](was-ist/was-ist-failrp.md)
+* [🚙 Was ist VDM](erklaerung/vdm.md)
+* [🔪 Was ist RDM](erklaerung/rdm.md)
+* [🆘 Was ist Power RP](erklaerung/power-rp.md)
+* [💊 Was ist New Life](erklaerung/new-life.md)
+* [☄ Was ist Baiting](erklaerung/readme-1.md)
+* [📺 Was ist Meta-Gaming](was-ist/was-ist-meta-gaming.md)
+* [🗣 Was ist IC-OOC](was-ist/was-ist-ic-ooc.md)
+* [🥲 Was ist OOC-MAD](was-ist/was-ist-ooc-mad.md)
+
 
 ## Fraktionen
 * [👨🏻‍⚖️ DOJ](fraktionen/doj.md)
