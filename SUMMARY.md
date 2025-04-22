@@ -11,7 +11,6 @@
   
 ## Erklärung
 
-* [👨👨👦 Drittpartei](erklaerung/drittpartei.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
 * [👬 Farming](erklaerung/farming.md)
@@ -52,7 +51,6 @@
 
 * [⚔ Ban](guides/ban.md)
 * [📂 Cache löschen](guides/cache-loeschen.md)
-* [💻 Datenbank](guides/datenbank.md)
 * [🔓 Entbannung](guides/entbannung.md)
 * [📈 FiveM FPS](guides/fivem-fps.md)
 * [🎫 Im Spiel Ticket](guides/im-spiel-ticket.md)
