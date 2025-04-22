@@ -19,3 +19,5 @@ Suche dir davor einen geeigneten Standort aus.
 ### Wie lange bleibt das bestehen?
 
 Aktuell bleibt es dauerhaft bestehen, dies soll sich bald ändern und als ``7 Tage`` miete über dem Continental laufen.
+
+187
