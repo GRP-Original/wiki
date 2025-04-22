@@ -11,9 +11,7 @@
   
 ## Erklärung
 
-* [☄ Baiting](erklaerung/readme-1.md)
-* [🚨 Battle Pass](erklaerung/battlepass.md)
-* [👨⚖ Continental](erklaerung/continental.md)
+* [☄ Baiting](erklaerung/readme-1.md))
 * [👨👨👦 Drittpartei](erklaerung/drittpartei.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
@@ -27,13 +25,10 @@
 * [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
 * [💊 New Life](erklaerung/new-life.md)
 * [🆘 Power RP](erklaerung/power-rp.md)
-* [🧔🏻 Präsident](erklaerung/president.md)
 * [🔪 RDM](erklaerung/rdm.md)
 * [📘 Staatsfraktion](erklaerung/staatsfraktion.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
-* [🏢 Tankstelle](erklaerung/tankstelle.md)
 * [🚛 Truckerjob](erklaerung/trucker.md)
-* [🏭 Unternehmen](erklaerung/unternehmen.md)
 * [🚙 VDM](erklaerung/vdm.md)
 * [🏬 Walmart](erklaerung/werkbank.md)
 * [🔧 Werkbank](erklaerung/werkbank.md)
