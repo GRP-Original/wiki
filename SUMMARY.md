@@ -43,7 +43,6 @@
 
 
 ## Fraktionen
-* [👨🏻‍⚖️ DOJ](fraktionen/doj.md)
 * [🏥 LSMD](fraktionen/lsmd.md)
 * [👮 LSPD](fraktionen/lspd.md)
 
