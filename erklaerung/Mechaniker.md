@@ -1,4 +1,4 @@
-Der Mechaniker ist auf dem Server für das tuning da.
+Der Mechaniker ist auf dem Server für das tuning da und befindet sich bei der PLZ **7227**
 
 Alle Änderungen am oder im Auto wie Farbe, tuning allgemein, Nitro laufen **nur über ihn.**
 
