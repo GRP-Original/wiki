@@ -15,7 +15,6 @@
 
 * [🏬 Autohaus](erklaerung/autohaus.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
-* [🚗 Daily-Geschenk](erklaerung/daily-geschenk.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
 * [👬 Farming](erklaerung/farming.md)
 * [👕 Fraktionsoutfits](erklaerung/fraktionsoutfits.md)
@@ -24,6 +23,7 @@
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
 * [🎤 GRP-Voice](erklaerung/grp-voice.md)
 * [🗺 illegale Routen](erklaerung/illegale-routen.md)
+* [🎮 Kostenloses-Geschenk](erklaerung/kostenloses-geschenk.md)
 * [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
 * [📘 Staatsfraktion](erklaerung/staatsfraktion.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
