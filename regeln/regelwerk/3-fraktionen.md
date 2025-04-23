@@ -41,9 +41,53 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 
 ## §3.4 Kriegsvertrag
 
-- Ein Kriegsvertrag wird durch das Continental dokumentiert
-- Das Continental dient als neutrale Partei und überwacht den Krieg.
-- Das Continental bestimmt die Regelungen und Einzelheiten jedes Kriegsvertrages im Einzelnen
+- Die Fraktionsverwaltung dient als neutrale Partei und überwacht den Krieg
+- Der Kriegsvertrag wird durch die Fraktionsverwaltung dokumentiert
+
+## §3.4.1. Vorgespräche und Konflikt
+- **IC-Gespräche:** Bevor es zu einem Krieg kommt, führen die beteiligten Fraktionen IC (In-Character) Gespräche, um mögliche Konflikte friedlich zu lösen.
+- **Eskalation:** Sollten die Gespräche ergebnislos bleiben oder zu Streitigkeiten führen, kann es zu einem Angriff auf die Route kommen.
+- **Einstieg in die Kriegsphase:** Nach mehreren Fights auf der Route kann eine Fraktion über das Ticketsystem einen Kriegsvertrag beantragen.
+
+## §3.4.2. Kriegsvertragsantrag (per Ticket)
+
+# Anforderungen an den Kriegsvertragsantrag:
+
+Die antragstellende Fraktion muss im Ticket ausreichende Beweise vorlegen, die den Krieg rechtfertigen. Diese Beweise können folgende Punkte beinhalten:
+
+1. **Kenntnis der Route:** Die Angreifer wissen, wo sich die Route befindet.
+2. **Interaktion mit der Route:** Die Angreifer haben die Route bereits betreten oder den dortigen Camper geplündert.
+3. **Erfolg in vorherigen Fights:** Es wurden bereits Kämpfe auf der Route ausgetragen, und die Angreifer konnten mindestens einen Sieg erringen.
+
+## §3.4.3. Prüfung und Genehmigung des Kriegsvertrags
+
+- **Prüfung durch die Fraktionsverwaltung:** Die Fraktionsverwaltung sichtet die Beweise und prüft, ob der Antrag berechtigt ist.
+- **Genehmigung:** Nach positiver Prüfung gibt die Fraktionsverwaltung das "Go" für den Kriegsvertrag.
+
+## §3.4.4. Erstellung des Kriegsvertrags
+
+# Beteiligung der Parteien:
+
+- Nach der Genehmigung durch die Fraktionsverwaltung wird der **12er der Fraktion, welche die betroffene Route besitzt**, in das Ticket hinzugefügt.
+- Beide Fraktionen diskutieren im Ticket die Bedingungen und Anforderungen des Kriegs.
+- Sobald beide Fraktionen den Bedingungen zustimmen, segnet die Fraktionsverwaltung den Vertrag ab.
+
+# Inhalte des Kriegsvertrags:
+
+Der Vertrag muss folgende Punkte klar und detailliert regeln:
+
+1. **Forderung:** Welche konkreten Forderungen werden von den Fraktionen gestellt?
+2. **Grund des Krieges:** Was ist der Auslöser oder die Begründung für den Krieg?
+3. **Zeitplan:** Wann sollen die Kämpfe stattfinden?
+4. **Anzahl der Fights:** Wie viele Kämpfe sind erforderlich, um den Krieg zu entscheiden?
+5. **Spezialregelungen:** Welche besonderen Regeln gelten? (z. B. Nutzung von Autos, Helikoptern oder Motorrädern)
+6. **Call und Ort:** Wird mit einem Schusscall oder einem Ersten Kontakt begonnen, und wo genau finden die Kämpfe statt?
+7. **Anzahl der Teilnehmer:** Wie viele Spieler dürfen pro Fraktion an den Kämpfen teilnehmen? Falls keine Einigung erzielt wird, gilt automatisch ein Limit von 20 gegen 20.
+
+## §3.4.5. Abschluss und IC-Umsetzung
+
+1. **IC-Treffen:** Sobald die Bedingungen im Ticket festgelegt und genehmigt wurden, treffen sich beide Fraktionen IC. Dort wird der Kriegsvertrag offiziell aufgesetzt.
+2. **Start des Krieges:** Nach der IC-Bestätigung beginnen die vereinbarten Kämpfe entsprechend den festgelegten Regeln und Bedingungen.
 
 ## §3.5 Zonenkampf
 
