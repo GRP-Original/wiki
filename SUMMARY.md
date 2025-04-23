@@ -13,6 +13,7 @@
   
 ## Erklärung
 
+* [🏬 Autohaus](erklaerung/autohaus.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
 * [👬 Farming](erklaerung/farming.md)
