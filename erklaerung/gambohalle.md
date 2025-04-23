@@ -8,6 +8,7 @@ Die Gambohalle beinhaltet verschiedene Shooter-Games die gegen einzelne oder meh
 
 * 1vs1
 * FFA
+* Aimlabs
 
 ### Hinweis <a href="#2-toc-title" id="2-toc-title"></a>
 
