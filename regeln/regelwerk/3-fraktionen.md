@@ -1,7 +1,5 @@
 # 👬 §3 Fraktionen
 
-Wie du eine Fraktion erstellst und offiziell wird erfährst du [**hier**](../../erklaerung/continental.md)
-
 ## §3.1 Fraktionsregeln:
 
 - Die **Fraktionsleitung** haftet für die Mitglieder eben dieser Fraktion.\
