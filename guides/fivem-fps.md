@@ -23,14 +23,8 @@
 
 Beachte, dass ein Löschen des FiveM-Cache ebenfalls deine FPS erhöhen kann.
 
-**Weitere Möglichkeiten deine FPS zu verbessern**
-
-Im folgenden [Video](https://www.youtube.com/watch?v=4NM\_oECsGoQ) erfährst Du weitere hilfreiche Tipps zum Steigern Deiner FPS innerhalb von GRP und FiveM im Allgemeinen.
-
-[https://www.youtube.com/watch?v=4NM\_oECsGoQ](https://www.youtube.com/watch?v=4NM\_oECsGoQ)
-
 **Kann ich dafür bestraft / gebanned werden?**
 
 Nein!\
-Weder auf GRP, noch innerhalb der FiveM-Plattform, kann diese Änderung _(oder die Änderungen im vorgeschlagenem Video)_ dazu führen, dass Du gebanned / bestraft wirst.\
+Weder auf GRP, noch innerhalb der FiveM-Plattform, kann diese Änderung dazu führen, dass Du gebanned / bestraft wirst.\
 Für andere Server übernehmen wir selbstverständlich keine Haftung.
