@@ -8,6 +8,7 @@
   * [📔 §1 Allgemein](regeln/regelwerk/1-allgemein.md)
   * [🎮 §2 Roleplay](regeln/regelwerk/2-roleplay.md)
   * [👬 §3 Fraktionen](regeln/regelwerk/3-fraktionen.md)
+  * [🎤 §4 Discord](regeln/regelwerk/4-discord.md)
   
 ## Erklärung
 
