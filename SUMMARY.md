@@ -34,7 +34,7 @@
 * [🔪 Was ist RDM](was-ist/rdm.md)
 * [🆘 Was ist PowerRP](was-ist/power-rp.md)
 * [💊 Was ist New-Life](was-ist/new-life.md)
-* [☄ Was ist Baiting](was-ist/baiting-1.md)
+* [☄ Was ist Baiting](was-ist/baiting.md)
 * [📺 Was ist Meta-Gaming](was-ist/was-ist-meta-gaming.md)
 * [👨👨👦 Was ist Drittpartei](was-ist/drittpartei.md)
 * [🗣 Was ist IC-OOC](was-ist/was-ist-ic-ooc.md)
