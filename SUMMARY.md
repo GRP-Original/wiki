@@ -9,7 +9,7 @@
   * [🎮 §2 Roleplay](regeln/regelwerk/2-roleplay.md)
   * [👬 §3 Fraktionen](regeln/regelwerk/3-fraktionen.md)
   * [🎤 §4 Discord](regeln/regelwerk/4-discord.md)
-  * [🎤 §5 Datenschutz](regeln/regelwerk/5-datenschutz.md)
+  * [🔒 §5 Datenschutz](regeln/regelwerk/5-datenschutz.md)
   
 ## Erklärung
 
