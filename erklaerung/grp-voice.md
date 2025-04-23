@@ -10,7 +10,7 @@ Das kann nur GRP!
 
 Falls mal etwas nicht _ganz rund läuft_ hilft Dir unsere stressfreie Anleitung zu möglichen Herausforderungen ganz einfach weiter!
 
-_So geht es für Dich sofort ins_[ _Roleplay_ ](../regeln/regelwerk/3-roleplay.md)_mit der besten Qualität!_
+_So geht es für Dich sofort ins Roleplay_(../regeln/regelwerk/3-roleplay.md)_mit der besten Qualität!_
 
 ### Alle sind muted /stumm (Desktop) <a href="#2-toc-title" id="2-toc-title"></a>
 
@@ -26,7 +26,7 @@ _So geht es für Dich sofort ins_[ _Roleplay_ ](../regeln/regelwerk/3-roleplay.m
 
 ### Tipp für Neulinge & Einsteiger im RP <a href="#6-toc-title" id="6-toc-title"></a>
 
-Du bist ganz frisch im Thema [Roleplay](../regeln/regelwerk/3-roleplay.md) mit dabei und willst bloß nichts falsch machen?!\
+Du bist ganz frisch im Thema **Roleplay** (../regeln/regelwerk/3-roleplay.md) mit dabei und willst bloß nichts falsch machen?!\
 Keine Sorge, wirf ein Blick in unser [Regelwerk](../regeln/regelwerk/) und sei immer top informiert!
 
 Innerhalb der Tastaturbelegung gibt es eine Möglichkeit zum muten / stummschalten deines Mikrofons: **Anleitung**: Tastaturbelegung , „FiveM“ und „Mikrofon stumm Schaltung“ suchen und Hotkey setzen.
