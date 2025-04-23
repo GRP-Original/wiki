@@ -15,6 +15,7 @@
 
 * [🏬 Autohaus](erklaerung/autohaus.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
+* [🚗 Daily-Geschenk](erklaerung/daily-geschenk.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
 * [👬 Farming](erklaerung/farming.md)
 * [👕 Fraktionsoutfits](erklaerung/fraktionsoutfits.md)
