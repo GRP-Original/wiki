@@ -9,3 +9,8 @@ _**VDM**_ ist eine Abkürzung für _**V**ehicle **D**eath**m**atch_, also **das 
 * Andere Spieler **dürfen nicht durch Dein Fahrzeug verletzt werden**!
 * Solltest Du **unabsichtlich** jemanden **überfahren**, so solltest Du ihm **helfen** (Beachte die Power-RP Regel!)
 
+**Ausnahme:**
+Solltest du außerhalb deines Fahrzeugs bedroht werden, ist es dir gestattet, die bedrohende Person zur Selbstverteidigung zu überfahren.
+
+**Strafen:**
+Massen-VDM (Vehicle Deathmatch) wird mit einem permanenten Ausschluss vom Server bestraft.
