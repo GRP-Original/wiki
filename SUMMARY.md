@@ -24,7 +24,7 @@
 * [📘 Staatsfraktion](erklaerung/staatsfraktion.md)
 * [📟 Systemvoraussetzungen](erklaerung/systemvoraussetzungen.md)
 * [🚛 Truckerjob](erklaerung/trucker.md)
-* [🏬 Walmart](erklaerung/werkbank.md)
+* [🏬 Werkbank](erklaerung/werkbank.md)
 
 ## WAS IST
 
