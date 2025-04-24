@@ -6,7 +6,7 @@
 
 ### Ränge / Gehalt <a href="#0-toc-title" id="0-toc-title"></a>
 
-<table><thead><tr><th>Rang</th><th data-type="number">Gehalt</th></tr></thead><tbody><tr><td>Boss</td><td>4000</td></tr><tr><td>Assistent Chief</td><td>3750</td></tr><tr><td>Bureau Chief</td><td>3150</td></tr><tr><td>Commander</td><td>3150</td></tr><tr><td>Captian</td><td>3100</td></tr><tr><td>Lieutenant</td><td>2800</td></tr><tr><td>Sergeant 3</td><td>2500</td></tr><tr><td>Sergeant 2</td><td>2400</td></tr><tr><td>Sergeant</td><td>2100</td></tr><tr><td>Officer 3</td><td>2000</td></tr><tr><td>Officer 2</td><td>1975</td></tr><tr><td>Officer 1</td><td>1950</td></tr><tr><td>Rekrut</td><td>1900</td></tr></tbody></table>
+<table><thead><tr><th>Rang</th><th data-type="number">Gehalt</th></tr></thead><tbody><tr><td>Boss</td><td>10000</td></tr><tr><td>Assistent Chief</td><td>9750</td></tr><tr><td>Bureau Chief</td><td>9750</td></tr><tr><td>Commander</td><td>9500</td></tr><tr><td>Captain</td><td>9250</td></tr><tr><td>Lieutenant</td><td>9000</td></tr><tr><td>Sergeant 3</td><td>8750</td></tr><tr><td>Sergeant 2</td><td>8500</td></tr><tr><td>Sergeant</td><td>8000</td></tr><tr><td>Officer 3</td><td>7750</td></tr><tr><td>Officer 2</td><td>7500</td></tr><tr><td>Officer 1</td><td>7250</td></tr><tr><td>Rekrut</td><td>6000</td></tr></tbody></table>
 
 ### Los Santos Police Department <a href="#3-toc-title" id="3-toc-title"></a>
 
