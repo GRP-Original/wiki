@@ -13,6 +13,7 @@
   
 ## Erklärung
 
+* [🕴️ Continental](erklaerung/Continental.md)
 * [🏬 Autohaus](erklaerung/Autohaus.md)
 * [🔧 Mechaniker](erklaerung/Mechaniker.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
