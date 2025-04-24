@@ -13,7 +13,7 @@
   
 ## Erklärung
 
-* [🏬 Mechaniker](erklaerung/mechaniker.md)
+* [🏬 Mechaniker](erklaerung/Mechaniker.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
 * [🚗 Fahrzeugproduktion](erklaerung/fahrzeugproduktion.md)
 * [👬 Farming](erklaerung/farming.md)
