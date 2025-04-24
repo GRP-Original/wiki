@@ -6,7 +6,7 @@
 
 ### Ränge / Gehalt <a href="#0-toc-title" id="0-toc-title"></a>
 
-<table><thead><tr><th>Rang</th><th data-type="number">Gehalt</th></tr></thead><tbody><tr><td>Medic Chief</td><td>10000</td></tr><tr><td>Vize Chief</td><td>9750</td></tr><tr><td>Personalleiter</td><td>9500</td></tr><tr><td>Chef Chirurg</td><td>9250</td></tr><tr><td>Chef Arzt</td><td>9000</td></tr><tr><td>Chirurg</td><td>8750</td></tr><tr><td>Arzt</td><td>8500</td></tr><tr><td>Assistenz Chirurg</td><td>8000</td></tr><tr><td>Assistenz Arzt</td><td>7750</td></tr><tr><td>Azubi Chirurg</td><td>7500</td></tr><tr><td>Sanitäter</td><td>7250</td></tr><tr><td>Lehrling</td><td>6000</td></tr><tr><td>Praktikant</td><td>0</td></tr></tbody></table>
+<table><thead><tr><th>Rang</th><th data-type="number">Gehalt</th></tr></thead><tbody><tr><td>Medic Chief</td><td>10000</td></tr><tr><td>Vize Chief</td><td>9750</td></tr><tr><td>Personalleiter</td><td>9500</td></tr><tr><td>Chef Chirurg</td><td>9250</td></tr><tr><td>Chef Arzt</td><td>9000</td></tr><tr><td>Chirurg</td><td>8750</td></tr><tr><td>Arzt</td><td>8500</td></tr><tr><td>Assistenz Chirurg</td><td>8000</td></tr><tr><td>Assistenz Arzt</td><td>7750</td></tr><tr><td>Azubi Chirurg</td><td>7500</td></tr><tr><td>Sanitäter</td><td>7250</td></tr><tr><td>Lehrling</td><td>6000</td></tr><tr><td>Praktikant</td><td>4000</td></tr></tbody></table>
 
 ### Besonderheiten <a href="#4-toc-title" id="4-toc-title"></a>
 
