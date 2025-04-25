@@ -24,7 +24,7 @@ Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../erklaerung/Fahrz
 - Das Agieren in Nacktheit ist verboten.
 - Religionsfeindlichkeit, Sexismus sowie rassenspezifische Beleidigungen sind unzulässig.
 - Unnötiges Schießen **ohne** Roleplayhintergrund ist verboten
-- Die Verwendung einer Schuss- oder Schlagwaffe **ohne Call ist erlaubt**, sofern dies in der Rollenspiel-Situation sinnvoll ist. 
+- Das schießen ohne Call ist nicht erlaubt.
 - Eine Waffe nur eingesetzt / gezogen werden, wenn man nicht erheblich in der Unterzahl ist. 
 - Die Wahl zur Waffe sollte **immer** die letzte Wahl sein. 
 - Autohändler dürfen **pro** Standort maximal **10 Autos** ausparken.
