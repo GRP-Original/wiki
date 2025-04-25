@@ -15,6 +15,9 @@ Suche dir davor einen geeigneten Standort aus.
 + Aber gehst du als Autohändler aus dem Radius raus dann verschwindet die Markierung.
 + Diese kommt wieder, sobald du im Radius drinnen bist.
 
+### Was ist zu beachten?
+
++ Jedes Autohaus darf maximal 10 Autos auf ihrem Gelände haben.
 
 ### Wie lange bleibt das bestehen?
 
