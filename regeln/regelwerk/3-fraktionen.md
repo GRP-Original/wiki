@@ -10,13 +10,12 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 - Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr.
 - Das LSPD darf nicht gestürmt werden. 
 - Das AFK-Farmen von Gehaltschecks ist **verboten**.
-- Das Continental ist die Fraktionsverwaltung und somit unantastbar.
 - Sich als fremde Fraktion auszugeben ist **verboten**.
 
 
 ## §3.2 Illegale Fraktion:
 
-- Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Beim Verlassen einer illegalen Fraktion vergisst der Betroffene alles in der Fraktion erlebte und muss eine Summe in Cash / Materialien an die Fraktion abgeben. 
+- Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Beim Verlassen einer illegalen Fraktion vergisst der Betroffene alles was sie in der Fraktion erlebte.
 - Nach dem Austritt aus einer Fraktion müssen Spieler eine Wartezeit von **7 Tagen** einhalten
 - Sollte eine illegale Fraktion sich von selbst auflösen und **nicht mindestens 4 Wochen** lang aktiv bespielt worden sein, erhalten **alle Mitglieder eine Wartezeit von 7 Tagen**. Spieler haben jedoch die Möglichkeit, sich gegen eine ***Gebühr** beim **Continental** von dieser Wartezeit **freizukaufen.**
 - Es besteht keine **Fraktionssperre** zwischen der Hauptfraktion und der Unterfraktion. 
@@ -39,19 +38,19 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 
 ## §3.4 Kriegsvertrag
 
-- Die Fraktionsverwaltung dient als neutrale Partei und überwacht den Krieg
-- Der Kriegsvertrag wird durch die Fraktionsverwaltung dokumentiert
+- Das Continental dient als neutrale Partei und überwacht den Krieg
+- Der Kriegsvertrag wird durch das Continental dokumentiert
 
 ## §3.4.1. Vorgespräche und Konflikt
 - **IC-Gespräche:** Bevor es zu einem Krieg kommt, führen die beteiligten Fraktionen IC (In-Character) Gespräche, um mögliche Konflikte friedlich zu lösen.
 - **Eskalation:** Sollten die Gespräche ergebnislos bleiben oder zu Streitigkeiten führen, kann es zu einem Angriff auf die Route kommen.
-- **Einstieg in die Kriegsphase:** Nach mehreren Fights auf der Route kann eine Fraktion über das Ticketsystem einen Kriegsvertrag beantragen.
+- **Einstieg in die Kriegsphase:** Nach mehreren Fights auf der Route kann eine Fraktion über das Continental einen Kriegsvertrag beantragen
 
-## §3.4.2. Kriegsvertragsantrag (per Ticket)
+## §3.4.2. Kriegsvertragsantrag (beim Continental)
 
 # Anforderungen an den Kriegsvertragsantrag:
 
-Die antragstellende Fraktion muss im Ticket ausreichende Beweise vorlegen, die den Krieg rechtfertigen. Diese Beweise können folgende Punkte beinhalten:
+Die antragstellende Fraktion muss ausreichende Beweise vorlegen, die den Krieg rechtfertigen. Diese Beweise können folgende Punkte beinhalten:
 
 1. **Kenntnis der Route:** Die Angreifer wissen, wo sich die Route befindet.
 2. **Interaktion mit der Route:** Die Angreifer haben die Route bereits betreten oder den dortigen Camper geplündert.
@@ -59,16 +58,15 @@ Die antragstellende Fraktion muss im Ticket ausreichende Beweise vorlegen, die d
 
 ## §3.4.3. Prüfung und Genehmigung des Kriegsvertrags
 
-- **Prüfung durch die Fraktionsverwaltung:** Die Fraktionsverwaltung sichtet die Beweise und prüft, ob der Antrag berechtigt ist.
-- **Genehmigung:** Nach positiver Prüfung gibt die Fraktionsverwaltung das "Go" für den Kriegsvertrag.
+- **Prüfung durch die Fraktionsverwaltung:** Das Continental sichtet die Beweise und prüft, ob der Antrag berechtigt ist.
+- **Genehmigung:** Nach positiver Prüfung gibt das Continental das "Go" für den Kriegsvertrag.
 
 ## §3.4.4. Erstellung des Kriegsvertrags
 
 # Beteiligung der Parteien:
 
-- Nach der Genehmigung durch die Fraktionsverwaltung wird der **12er der Fraktion, welche die betroffene Route besitzt**, in das Ticket hinzugefügt.
-- Beide Fraktionen diskutieren im Ticket die Bedingungen und Anforderungen des Kriegs.
-- Sobald beide Fraktionen den Bedingungen zustimmen, segnet die Fraktionsverwaltung den Vertrag ab.
+- Beide Fraktionen treffen sich IC mit dem Continental und gehen die Anforderungen und Bedingungen des Kriegsvertrages druch. 
+- Sobald beide Fraktionen den Bedingungen zustimmen, segnet das Continental den Vertrag ab.
 
 # Inhalte des Kriegsvertrags:
 
@@ -82,15 +80,14 @@ Der Vertrag muss folgende Punkte klar und detailliert regeln:
 6. **Call und Ort:** Wird mit einem Schusscall oder einem Ersten Kontakt begonnen, und wo genau finden die Kämpfe statt?
 7. **Anzahl der Teilnehmer:** Wie viele Spieler dürfen pro Fraktion an den Kämpfen teilnehmen? Falls keine Einigung erzielt wird, gilt automatisch ein Limit von 20 gegen 20.
 
-## §3.4.5. Abschluss und IC-Umsetzung
+## §3.4.5. Abschluss
 
-1. **IC-Treffen:** Sobald die Bedingungen im Ticket festgelegt und genehmigt wurden, treffen sich beide Fraktionen IC. Dort wird der Kriegsvertrag offiziell aufgesetzt.
-2. **Start des Krieges:** Nach der IC-Bestätigung beginnen die vereinbarten Kämpfe entsprechend den festgelegten Regeln und Bedingungen.
+1. **Start des Krieges:** Nach der IC-Bestätigung beginnen die vereinbarten Kämpfe entsprechend den festgelegten Regeln und Bedingungen.
 
-## §3.5 Zonenkampf
+## §3.5 Gangwar
 
--  Nach Abschluss eines Zonenkampfes trennen sich die beteiligten Parteien, es darf daraus keine neue Situation entstehen. 
-- Fraktionen haben das Recht, nach einem Zonenkampf beim Continental einen Krieg gegen die gegnerische Fraktion zu beantragen. 
+-  Nach Abschluss eines Gangwars trennen sich die beteiligten Parteien, es darf daraus keine neue Situation entstehen. 
+- Fraktionen haben das Recht, nach einem Gangwar beim Continental einen Krieg gegen die gegnerische Fraktion zu beantragen. 
 - Die Entscheidung über die Genehmigung eines Krieges liegt beim Continental, das beurteilt, ob die Bedingungen für einen Krieg erfüllt sind. 
 - Es dürfen keine Platten außerhalb der Zone geschossen werden
 - VDM von Spielern im Zonenkampf ist nicht gestattet
