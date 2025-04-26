@@ -29,3 +29,30 @@
 
 **Verbot der Weitergabe von Bugs:**
 - Das Weitergeben oder Veröffentlichen von Bugs ist untersagt und wird streng geahndet.
+
+## §1.3 Regeländerungen:
+
+**Änderungen:** Das Regelwerk kann jederzeit angepasst werden. Änderungen treten entweder ab dem nächsten Serverneustart oder unmittelbar nach der Ankündigung im Discord-Kanal „Regelwerksänderungen“ in Kraft.
+
+**Verantwortlichkeit:** Änderungen dürfen ausschließlich von der Teamleitung oder höhergestellten Teammitgliedern vorgenommen werden.
+
+
+## §1.4 Umgangsformen:
+
+**Respekt:** Alle User müssen sich respektvoll verhalten. Beleidigungen, Mobbing, Rassismus, Diskriminierung, Drohungen und sexistische Inhalte sind verboten.
+
+**Benachteiligung:** Niemand darf aufgrund von Meinung, Herkunft, Geschlecht, Religion oder anderen persönlichen Merkmalen benachteiligt werden.
+
+**Verbreitung illegaler Inhalte:** Die Verbreitung von extremistischen, jugendgefährdenden oder illegalen Inhalten ist verboten.
+
+## §1.5 Lootdrop:
+
+- Beim Lootdrop wird automatisch ein Schusscall gegen alle Personen gegeben die sich im Bereich aufhalten. In dieser Phase 
+
+- Während und nach einem Lootdrop dürfen auf dem Boden liegenden Leuten keine Gegenstände abgezogen werden.
+
+- Während und nach einem Lootdrop dürfen keine Situationen enstehen um an den Lootdrop zu gelangen oder die Gegnerpartei auszunehmen.
+
+- Sollte der Gewinner des Lootdrops bedroht werden, muss er keine seiner Sachen abgeben.
+
+- Nach dem Lootdrop haben die User das Recht sich Administrativ reviven zu lassen. 
