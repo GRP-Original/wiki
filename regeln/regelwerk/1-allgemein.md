@@ -21,5 +21,11 @@
 **Grauzonen und Safezonen:**
 - Das Ausnutzen von Grauzonen oder das Flüchten in Safezonen, um Strafen oder Gegnern zu entgehen, ist verboten und wird bestraft.
 
+**Zu den Safezones zählen:**
+- MD
+- Autohändler
+- Mechaniker
+- Hubs
+
 **Verbot der Weitergabe von Bugs:**
 - Das Weitergeben oder Veröffentlichen von Bugs ist untersagt und wird streng geahndet.
