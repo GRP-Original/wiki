@@ -25,6 +25,7 @@ Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../erklaerung/Fahrz
 - Religionsfeindlichkeit, Sexismus sowie rassenspezifische Beleidigungen sind unzulässig.
 - Unnötiges Schießen **ohne** Roleplayhintergrund ist verboten
 - Das schießen ohne Call ist nicht erlaubt.
+- Der Call gegenüber der Gegenpartei muss deutlich zu hören sein, ein Call übers Handy ist nicht gültig.
 - Eine Waffe nur eingesetzt / gezogen werden, wenn man nicht erheblich in der Unterzahl ist. 
 - Die Wahl zur Waffe sollte **immer** die letzte Wahl sein. 
 - Autohändler dürfen **pro** Standort maximal **10 Autos** ausparken.
