@@ -17,7 +17,7 @@ Suche dir davor einen geeigneten Standort aus.
 
 ### Was ist noch zu beachten?
 
-+ Jedes Autohaus darf maximal 10 Autos auf ihrem Gelände haben.
++ Jedes Autohaus darf maximal 30 Autos auf ihrem Gelände haben.
 
 ### Wie lange bleibt das bestehen?
 
