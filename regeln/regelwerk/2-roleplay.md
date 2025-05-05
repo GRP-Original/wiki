@@ -12,6 +12,7 @@
 - OOC Talk ist verboten
 - Neue / unerfahren Spieler dürfen **nicht** belästigt oder ausgenutzt werden.
 - Das Ausspielen von Krankheiten, Schwangerschaft, Suizid oder Vergewaltigungen ist unzulässig.
+- Das schänden von Leichen ist in jeglicher Art **verboten**.
 - Jegliche Art von Scamming / Betrug ist **verboten**.
 - Das LSMD darf unter keinen Umständen Bedroht werden
 - Spieler dürfen nur Helme tragen, die nicht kugelsicher sind
