@@ -54,5 +54,5 @@ Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../erklaerung/Fahrz
 
 ## §2.5 (AFK)-Farming
 
-- Das AFK-Farmen auf einer legalen Route ist **erlaubt.**\
+- Das AFK-Farmen auf einer legalen Route ist **erlaubt.**
 - Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man muss jedoch ansprechbar sein.
