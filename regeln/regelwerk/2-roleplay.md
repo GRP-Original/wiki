@@ -42,7 +42,6 @@ Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../erklaerung/Fahrz
 
 ## §2.4 Geiselnahmen & Überfälle & Waffenlieferung
 
-- Geiseln können nicht freigekauft werden
 - Juwelen-, Laden oder Staatsbankraub erfordert mindestens eine Geisel.
 - RP hat Vorrang vor Schussgefechten
 - 30 Minuten vor dem Serverrestart dürfen keine Geiselnahmen/ Räube / Razzien stattfinden.
