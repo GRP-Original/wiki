@@ -92,29 +92,18 @@ Der Vertrag muss folgende Punkte klar und detailliert regeln:
 - Es dürfen keine Platten außerhalb der Zone geschossen werden
 - VDM von Spielern im Zonenkampf ist nicht gestattet
 
-## §3.6 Geiselnahmen/Räube
 
-- RP hat Vorrang, nicht das Lösegeld. Spawntrapping ist verboten.
-
-- 30 Minuten vor einem Serverneustart sind Geiselnahmen/Räube untersagt.
-
-- Während eines Raubes besteht Schusscall; Verhandlungen werden empfohlen.
-
-- In der Nähe befindliche Spieler werden in die RP-Situation eingebunden.
-
-- Maximal 5000$ pro Geisel, nur Cash erlaubt.
-
-## §3.7 Waffenlieferung
+## §3.6 Waffenlieferung
 
 - Während einer aktiven Waffenlieferung treten sowohl die Schusscall- als auch die Drittpartei-Regel außer Kraft.
 
 - Innerhalb des definierten Radius ist es allen beteiligten Parteien gestattet, ohne Schusscall zu handeln und sich in den Konflikt einzumischen.
 
-## §3.8 Fraktionswarn & Auflösung
+## §3.7 Fraktionswarn & Auflösung
 
 Warns an eine Fraktion werden vergeben wenn mehrere Regelbrüche und/oder Regelbrüche von mehreren Mitgliedern einer Fraktion entstanden sind. 1 Fraktionswarn hält **2 Wochen**. Wird bei einer Fraktion der 3. Warn ausgesprochen erfolgt direkt darauf die Auflösung.
 
-## §3.9 Umsetzung/Umlegung von Routen 
+## §3.8 Umsetzung/Umlegung von Routen 
 
 Das umsetzen einer Route oder der Routen Schritte ist möglich, hat aber danach einen Cooldown von **1. Monat**
 Das tauschen von Routen zwischen Fraktionen untereinander ist jederzeit möglich in zusammenarbeit mit dem Continental, die Cooldown Regelung fürs umsetzen entfällt **NICHT**
