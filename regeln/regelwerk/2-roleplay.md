@@ -51,6 +51,8 @@ Welche Fahrzeuge geländetauglich sind kannst du \[[hier](../../erklaerung/Fahrz
 - Ein **Überfall** auf einen Spieler darf nur mit **entsprechendem RP-Hintergrund** erfolgen. 
 - Der Wunsch nach Materialien/Geld zählt **nicht** als RP-Hintergrund
 - Bei der Waffenlieferung entfällt die Drittpartei-Regel im Kreis der Waffenlieferung.
+- In der Nähe befindliche Spieler werden in die RP-Situation eingebunden.
+- Maximal 5000$ pro Geisel, nur Cash erlaubt.
 
 ## §2.5 (AFK)-Farming
 
