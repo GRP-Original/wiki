@@ -44,7 +44,7 @@
 
 **Verbreitung illegaler Inhalte:** Die Verbreitung von extremistischen, jugendgefährdenden oder illegalen Inhalten ist verboten.
 
-## §1.5 Lootdrop:
+<!--## §1.5 Lootdrop:
 
 - Beim Lootdrop wird automatisch ein Schusscall gegen alle Personen gegeben die sich im Bereich aufhalten. In dieser Phase 
 
@@ -54,4 +54,4 @@
 
 - Sollte der Gewinner des Lootdrops bedroht werden, muss er keine seiner Sachen abgeben.
 
-- Nach dem Lootdrop haben die User das Recht sich Administrativ reviven zu lassen. 
+- Nach dem Lootdrop haben die User das Recht sich Administrativ reviven zu lassen.-->
