@@ -7,3 +7,5 @@
 ### Illegale Routen / Farming <a href="#1-toc-title" id="1-toc-title"></a>
 
 + Illegale Routen ermöglichen den Zugang zu **illegalen** Ressourcen. Alle Routen dieser Art sind aktiv bespielbare.
+
+Du das aktive farmen (ob legal oder illegal) kommt man schneller an Respektpunkte.
