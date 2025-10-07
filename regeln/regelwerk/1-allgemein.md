@@ -31,7 +31,7 @@
 
 ## §1.3 Regeländerungen:
 
-**Änderungen:** Das Regelwerk kann jederzeit angepasst werden. Änderungen treten entweder ab dem nächsten Serverneustart oder unmittelbar nach der Ankündigung im Discord-Kanal „Regelwerksänderungen“ in Kraft.
+**Änderungen:** Das Regelwerk kann jederzeit angepasst werden. Änderungen treten entweder ab dem nächsten Serverneustart oder unmittelbar nach der Ankündigung im Discord-Kanal „Regelwerks-Update“ in Kraft.
 
 **Verantwortlichkeit:** Änderungen dürfen ausschließlich von der Teamleitung oder höhergestellten Teammitgliedern vorgenommen werden.
 
