@@ -18,6 +18,7 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 - Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Beim Verlassen einer illegalen Fraktion vergisst der Betroffene alles was sie in der Fraktion erlebte.
 - Nach dem Austritt aus einer Fraktion müssen Spieler eine Wartezeit von **7 Tagen** einhalten
 - Sollte eine illegale Fraktion sich von selbst auflösen und **nicht mindestens 4 Wochen** lang aktiv bespielt worden sein, erhalten **alle Mitglieder eine Wartezeit von 7 Tagen**. Spieler haben jedoch die Möglichkeit, sich gegen eine ***Gebühr** beim **Continental** von dieser Wartezeit **freizukaufen.**
+- Eine Hauptfraktion hat bei passender größe, aktivität und Spielerzahl vom Server eine Unterfraktion zu gründen. Die Unterfraktion muss auch im Support angemeldet werden.
 - Es besteht keine **Fraktionssperre** zwischen der Hauptfraktion und der Unterfraktion. 
 - Die Unterfraktion ist berechtigt, die Hauptfraktion jederzeit aufzufüllen oder bei Schießereien mitzuagieren.
 - Die Hauptfraktion darf **nicht** in die Unterfraktion eintreten, um gemeinsam zu agieren.
