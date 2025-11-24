@@ -2,36 +2,47 @@
 
 ## §3.1 Fraktionsregeln:
 
+- Illegale und Legale Fraktionen müssen mit einem umfassenden Konzept beantragt werden.
 - Die **Fraktionsleitung** haftet für die Mitglieder eben dieser Fraktion.\
-Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder ganz oder möglicherweise nur in Teilen (un)gleich bestraft. Diese Entscheidung obliegt dem Continental.
-- Jede Fraktion muss als solche erkennbar sein (Kleidung)
+Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder ganz oder möglicherweise nur in Teilen (un)gleich bestraft. Diese Entscheidung obliegt der Fraktionsverwaltung.
 - Das regelmäßige Wechseln zwischen Fraktionen ist **nicht gestattet**. 
 - Eine Staatsfraktion besitzt keine Mitgliederlimitierung.
 - Staatsfraktion dürfen zusammen agieren und gelten als Unantastbar außer sie schützen ihr Leben nicht oder begeben sich in Gefahr.
-- Das LSPD darf nicht gestürmt werden. 
+- Das LSPD darf nur mit einem triftigen Grund gestürmt werden. 
 - Das AFK-Farmen von Gehaltschecks ist **verboten**.
 - Sich als fremde Fraktion auszugeben ist **verboten**.
-
+- Fraktionsmitglieder dürfen nicht permanent maskiert rumlaufen, da es sonst als dauerhafte Provokation gilt. 
+- die Fraktionsverwaltung **muss** auf dem jeweiligen Discord eingeladen werden mit voller Einsicht auf alle Channel (Admin Rechte)
 
 ## §3.2 Illegale Fraktion:
 
-- Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Beim Verlassen einer illegalen Fraktion vergisst der Betroffene alles was sie in der Fraktion erlebte.
-- Nach dem Austritt aus einer Fraktion müssen Spieler eine Wartezeit von **7 Tagen** einhalten
-- Sollte eine illegale Fraktion sich von selbst auflösen und **nicht mindestens 4 Wochen** lang aktiv bespielt worden sein, erhalten **alle Mitglieder eine Wartezeit von 7 Tagen**. Spieler haben jedoch die Möglichkeit, sich gegen eine ***Gebühr** beim **Continental** von dieser Wartezeit **freizukaufen.**
-- Eine Hauptfraktion hat bei passender größe, aktivität und Spielerzahl vom Server eine Unterfraktion zu gründen. Die Unterfraktion muss auch im Support angemeldet werden.
+- Es darf nur **eine** illegale Fraktion zur selben Zeit bespielt werden. Bei einem Bloodout einer illegalen Fraktion vergisst der Betroffene alles was er in der Fraktion erlebte.
+- Bei einem Bloodout keine Möglichkeit auf Widereintritt in Haupt- und Unterfraktion.
+- Nach dem Austritt aus einer illegalen Fraktion müssen Spieler eine Wartezeit von **7 Tagen** einhalten
+- Sollte eine illegale Fraktion sich von selbst auflösen und **nicht mindestens 4 Wochen** lang aktiv bespielt worden sein, erhalten **alle Mitglieder eine Wartezeit von 7 Tagen**. Spieler die bei einer legalen Fraktion rausgeworfen worden sind, haben die Möglichkeit sich für eine hohe **Gebühr** bei der Regierung von dieser Wartezeit **freizukaufen.**
+- 
 - Es besteht keine **Fraktionssperre** zwischen der Hauptfraktion und der Unterfraktion. 
 - Die Unterfraktion ist berechtigt, die Hauptfraktion jederzeit aufzufüllen oder bei Schießereien mitzuagieren.
 - Die Hauptfraktion darf **nicht** in die Unterfraktion eintreten, um gemeinsam zu agieren.
 - Eine Fraktion besteht aus maximal 25 Mitgliedern, mindestens jedoch mit 5 Mitgliedern.
 - Die Fraktionsleitung ist verantwortlich, dass alle Mitglieder im Fraktionsmenü eingetragen sind.
-- Sollte sich eine Fraktion **NEU** gründen erhält Sie vom **Continental** einen  **Aufbauschutz**. 
-- Der Aufbauschutz hält **eine Woche** an und kann jederzeit vom **Continental beendet** werden. Während dieser Zeit darf diese Fraktion **NIEMAND** angreifen.
-- Das Durchführen von Stürmungen ist ausschließlich mit einem angemessenen RP-Hintergrund erlaubt.
+- Sollte sich eine Fraktion **NEU** gründen erhält Sie von der **Fraktionsverwaltung** einen  **Aufbauschutz** (Wird im Discord hinterlegt)
+- Der Aufbauschutz hält **eine Woche** an und kann jederzeit von der **Fraktionsverwaltung beendet** werden. Während dieser Zeit darf diese Fraktion **NIEMAND** angreifen. Eine Fraktion die sich im Aufbau daneben benimmt, muss mit konsequenzen der Fraktionsverwaltung rechnen.
+- Bei Gründen der Fraktion wird direkt mit der Fraktionsverwaltung die sichtbaren Merkmale besprochen, dass können unteranderem Farbe und/oder Kleidungsstücke sein (min 2)
 - Fraktionen müssen eine eigene Fraktionsfarbe haben!  Sobald man in einer Fraktion ist, darf nur mit dieser und in dessen Farben und der **Fraktionsweste** agiert werden.
+- Bei Fraktions-Situationen müssen die gegebenen Merkmale immer sichtbar sein, außerhalb dürfen sie ausgezogen werden. 
+- Das Durchführen von Stürmungen ist ausschließlich mit einem angemessenen RP-Hintergrund erlaubt.
 - Es muss ein Konzept eingerecht werden.
 - Es ist untersagt, als **zivile Gruppierung oder als zivile Einzelperson** eine Drogenroute zu stürmen.
 - Es ist untersagt als dritte Partei in einen Konflikt zwischen zwei Parteien einzugreifen / zu agieren.
 
+## §3.2.1 Unterfraktionen:
+- Eine Unterfraktion muss wie die Hauptfraktion bei der Fraktionsverwaltung beantragt werden.
+- Unterfraktionen dürfen nur mit einem Grund und einer bestimmten Mitgliederanzahl der Hauptfraktion gegründet werden. (min 15 Mitglieder in der Hauptfraktion)
+- die Mitglieder einer Unterfraktion müssen ähnliche Merkmale haben wie die Hauptfraktion, welche sind selbstbestimmend mit erlaubnis der Fraktionsverwaltung
+- Eine Unterfraktion muss mindestens aus 5 Mitgliedern bestehen und hat eine Maximalanzahl an 10
+- Arbeiter müssen ein Teil der Unterfraktion sein und stehen unter derem Schutz, heißt wenn gegen den Arbeiter agiert wird, wird auch gegen die Fraktion agiert. 
+- 
 ## §3.3 Banden
 
 - Eine Bande besteht ab 2 Personen und obliegt den gleichen Regeln wie jede andere illegale Fraktion.
@@ -39,14 +50,14 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 
 ## §3.4 Kriegsvertrag
 
-- Der Kriegsvertrag wird durch die Fraktionsverwaltung dokumentiert
+- Der Kriegsvertrag muss durch die Fraktionsverwaltung genehmigt werden.
 
 ## §3.4.1. Vorgespräche und Konflikt
 - **IC-Gespräche:** Bevor es zu einem Krieg kommt, führen die beteiligten Fraktionen IC (In-Character) Gespräche, um mögliche Konflikte friedlich zu lösen.
 - **Eskalation:** Sollten die Gespräche ergebnislos bleiben oder zu Streitigkeiten führen, kann es zu einem Angriff auf die Route kommen.
 - **Einstieg in die Kriegsphase:** Nach mehreren Fights auf der Route kann eine Fraktion über das Continental einen Kriegsvertrag beantragen
 
-## §3.4.2. Kriegsvertragsantrag (beim Continental)
+## §3.4.2. Kriegsvertrag Antrag
 
 # Anforderungen an den Kriegsvertragsantrag:
 
@@ -58,15 +69,15 @@ Die antragstellende Fraktion muss ausreichende Beweise vorlegen, die den Krieg r
 
 ## §3.4.3. Prüfung und Genehmigung des Kriegsvertrags
 
-- **Prüfung durch die Fraktionsverwaltung:** Das Continental sichtet die Beweise und prüft, ob der Antrag berechtigt ist.
-- **Genehmigung:** Nach positiver Prüfung gibt das Continental das "Go" für den Kriegsvertrag.
+- **Prüfung durch die Fraktionsverwaltung:** Die Frakverwaltung sichtet die Beweise und prüft, ob der Antrag berechtigt ist.
+- **Genehmigung:** Nach positiver Prüfung, gibt die Frakverwaltung das "Go" für den Kriegsvertrag.
 
 ## §3.4.4. Erstellung des Kriegsvertrags
 
 # Beteiligung der Parteien:
 
-- Beide Fraktionen treffen sich IC mit dem Continental und gehen die Anforderungen und Bedingungen des Kriegsvertrages druch. 
-- Sobald beide Fraktionen den Bedingungen zustimmen, segnet das Continental den Vertrag ab.
+- Beide Fraktionen treffen sich im Support mit der Frakverwaltung und gehen die Anforderungen/Bedingungen des Kriegsvertrages druch. 
+- Sobald beide Fraktionen den Bedingungen zustimmen, wird der Vertrag abgesegnet.
 
 # Inhalte des Kriegsvertrags:
 
@@ -82,7 +93,7 @@ Der Vertrag muss folgende Punkte klar und detailliert regeln:
 
 ## §3.4.5. Abschluss
 
-1. **Start des Krieges:** Nach der IC-Bestätigung beginnen die vereinbarten Kämpfe entsprechend den festgelegten Regeln und Bedingungen.
+1. **Start des Krieges:** Nach der Support Bestätigung beginnen die vereinbarten Kämpfe entsprechend den festgelegten Regeln und Bedingungen.
 
 ## §3.5 Gangwar
 
