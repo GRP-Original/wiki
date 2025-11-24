@@ -1,6 +1,6 @@
 # 💵 Geld Arten
 
-Es gibt **zwei verschiedene Arten von Geld** innerhalb des Roleplays auf GRP.
+Es gibt **zwei verschiedene Arten von Geld** innerhalb des Roleplays auf Riva City.
 
 * **Cash / Bargeld**
 * **Bankaccount / Geld auf der Bank / Geld auf dem Konto**

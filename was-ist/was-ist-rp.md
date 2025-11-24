@@ -19,4 +19,4 @@ RP ist die Abkürzung für Roleplay (Rollenspiel). Das bedeutet, dass sich Spiel
 | Bug                       | Augenfehler                                |
 | Gefängniszeiten (in Min.) | Hafteinheiten                              |
 
-<figure><img src="https://storage.grp.plus/logo.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://storage.geo-v.cc/logoriva.gif" alt=""><figcaption></figcaption></figure>

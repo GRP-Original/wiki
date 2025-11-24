@@ -26,5 +26,5 @@ Beachte, dass ein Löschen des FiveM-Cache ebenfalls deine FPS erhöhen kann.
 **Kann ich dafür bestraft / gebanned werden?**
 
 Nein!\
-Weder auf GRP, noch innerhalb der FiveM-Plattform, kann diese Änderung dazu führen, dass Du gebanned / bestraft wirst.\
+Weder auf Riva City, noch innerhalb der FiveM-Plattform, kann diese Änderung dazu führen, dass Du gebanned / bestraft wirst.\
 Für andere Server übernehmen wir selbstverständlich keine Haftung.

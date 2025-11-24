@@ -3,7 +3,7 @@
 ## 5.1 Aufnahmen
 **Zustimmung zur Datenspeicherung:**
 
-- Spieler, die auf dem Server von GRP aktiv sind, erklären sich damit einverstanden, dass Audio-, Bild- und Videomaterial von ihnen gespeichert und veröffentlicht werden darf.
+- Spieler, die auf dem Server von Riva aktiv sind, erklären sich damit einverstanden, dass Audio-, Bild- und Videomaterial von ihnen gespeichert und veröffentlicht werden darf.
 
 **Verwendung von Aufnahmen:**
 

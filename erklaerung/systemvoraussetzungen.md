@@ -20,9 +20,9 @@ Für eine angenehmere **Spielperformance** empfiehlt sich aber ein System mit mi
 * **HDD**: 72GB + \~8GB
 * **OS**: Windows 10\*\*
 
-### GRP empfiehlt (Mindestvoraussetzung Hardware) <a href="#2-toc-title" id="2-toc-title"></a>
+### Riva empfiehlt (Mindestvoraussetzung Hardware) <a href="#2-toc-title" id="2-toc-title"></a>
 
-Für eine optimale Spielerfahrung für 1080p / Full-HD-Settings auf GRP empfehlen wir folgende Konfiguration als **Minimum-Konfiguration:**
+Für eine optimale Spielerfahrung für 1080p / Full-HD-Settings auf Riva City empfehlen wir folgende Konfiguration als **Minimum-Konfiguration:**
 
 * **CPU**: Intel 6700k / AMD Ryzen 5 5600x oder besser
 * **GPU**: Nvidia GTX 1070TI oder besser
@@ -30,9 +30,9 @@ Für eine optimale Spielerfahrung für 1080p / Full-HD-Settings auf GRP empfehle
 * **HDD**: 256GB SSD / nVme oder besser (_mehr Speicher / schnellere Übertragungsgeschwindigkeit_)
 * **OS**: Windows 10\*\*
 
-### GRP empfiehlt (Empfohlene Hardware) <a href="#3-toc-title" id="3-toc-title"></a>
+### Riva empfiehlt (Empfohlene Hardware) <a href="#3-toc-title" id="3-toc-title"></a>
 
-Für eine optimale Spielerfahrung für 1080p / Full-HD-Settings auf GRP empfehlen wir folgende Konfiguration als **Minimum-Konfiguration:**
+Für eine optimale Spielerfahrung für 1080p / Full-HD-Settings auf Riva City empfehlen wir folgende Konfiguration als **Minimum-Konfiguration:**
 
 * **CPU**: Intel 9900k / AMD Ryzen 7 5800x oder besser
 * **GPU**: Nvidia RTX 2060TI oder besser

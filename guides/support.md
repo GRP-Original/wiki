@@ -5,7 +5,7 @@
 Im Support kannst Du Spieler melden die Deiner Meinung nach einen Regelverstoß _(siehe Regelwerk)_ begangen haben.\
 Bitte denk daran, wenn Du ein Spieler mit ein Regelverstoß erwischt einen Clip / Aufnahme bereitzuhaben und diesen / diese im Support vorzeigen kannst.\
 Natürlich hilft der Support _(soweit möglich)_ auch bei technischen Herausforderungen und Problemen weiter.\
-Ein klares Mikrofon und die Möglichkeit eine Bildschirmübertragung zu bieten hilft Dir und dem GRP-Team am besten um Deine Herausforderung / Probleme aus der Welt zu schaffen!
+Ein klares Mikrofon und die Möglichkeit eine Bildschirmübertragung zu bieten hilft Dir und dem Riva-Team am besten um Deine Herausforderung / Probleme aus der Welt zu schaffen!
 
 ### Wie komme ich in den Support ? <a href="#1-toc-title" id="1-toc-title"></a>
 
@@ -16,8 +16,8 @@ Ein Team-Mitglied wird sich so schnell wie es geht sich um Dein anliegen kümmer
 
 ### Beweise im Support <a href="#2-toc-title" id="2-toc-title"></a>
 
-Beweise im Support die einen Regelverstoß belegen sind die Grundlage für Sanktionen und Handlungen des GRP-Teams.
-Desto klarer / besser deine Beweise sind, desto höher die Chance, dass das GRP-Team dir bestmöglich weiterhelfen kann und dir die Unterstützung zukommen lässt, die du brauchst!
+Beweise im Support die einen Regelverstoß belegen sind die Grundlage für Sanktionen und Handlungen des Riva-Teams.
+Desto klarer / besser deine Beweise sind, desto höher die Chance, dass das Riva-Team dir bestmöglich weiterhelfen kann und dir die Unterstützung zukommen lässt, die du brauchst!
 
 ### Wie kann ich Clips machen ? <a href="#3-toc-title" id="3-toc-title"></a>
 

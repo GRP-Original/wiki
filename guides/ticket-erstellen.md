@@ -31,7 +31,7 @@ Allgemein, Entbannungsantrag oder Rückerstattung beantragen
 
 ### Teambewerbung
 
-Hier kannst du eine Teambewerbung einreichen, wenn du ein teil vom **GRP** Team werden willst.
+Hier kannst du eine Teambewerbung einreichen, wenn du ein teil vom **Riva** Team werden willst.
 
 <figure><img src="../.gitbook/assets/ticket-erstellen/ticket team.png" alt="" height="250" width="459"><figcaption></figcaption></figure>
 
