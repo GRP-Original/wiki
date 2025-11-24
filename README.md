@@ -1,2 +1,2 @@
 # wiki
- GRP Regelwerk
+Riva Regelwerk
