@@ -13,7 +13,6 @@
   
 ## Erklärung
 
-* [🕴️ Continental](erklaerung/Continental.md)
 * [🏬 Autohaus](erklaerung/Autohaus.md)
 * [🔧 Mechaniker](erklaerung/Mechaniker.md)
 * [🚗 Fahrzeuge](erklaerung/Fahrzeuge.md)
@@ -23,7 +22,7 @@
 * [🔫 Gambohalle](erklaerung/gambohalle.md)
 * [💵 Geld Arten](erklaerung/geld-arten.md)
 * [🌇 Grafikmodifikationen](erklaerung/grafikmodifikationen.md)
-* [🎤 GRP-Voice](erklaerung/grp-voice.md)
+* [🎤 Riva-Voice](erklaerung/grp-voice.md)
 * [🗺 illegale Routen](erklaerung/illegale-routen.md)
 * [🎮 Kostenloses-Geschenk](erklaerung/kostenloses-geschenk.md)
 * [🎮 Kostenlose DP](erklaerung/kostenlose-dp-punkte.md)
