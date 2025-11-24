@@ -39,8 +39,7 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 
 ## §3.4 Kriegsvertrag
 
-- Das Continental dient als neutrale Partei und überwacht den Krieg
-- Der Kriegsvertrag wird durch das Continental dokumentiert
+- Der Kriegsvertrag wird durch die Fraktionsverwaltung dokumentiert
 
 ## §3.4.1. Vorgespräche und Konflikt
 - **IC-Gespräche:** Bevor es zu einem Krieg kommt, führen die beteiligten Fraktionen IC (In-Character) Gespräche, um mögliche Konflikte friedlich zu lösen.
