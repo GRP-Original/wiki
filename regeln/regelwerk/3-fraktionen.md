@@ -20,7 +20,8 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 - Bei einem Bloodout keine Möglichkeit auf Widereintritt in Haupt- und Unterfraktion.
 - Nach dem Austritt aus einer illegalen Fraktion müssen Spieler eine Wartezeit von **7 Tagen** einhalten
 - Sollte eine illegale Fraktion sich von selbst auflösen und **nicht mindestens 4 Wochen** lang aktiv bespielt worden sein, erhalten **alle Mitglieder eine Wartezeit von 7 Tagen**. Spieler die bei einer legalen Fraktion rausgeworfen worden sind, haben die Möglichkeit sich für eine hohe **Gebühr** bei der Regierung von dieser Wartezeit **freizukaufen.**
-- 
+- Bei Auflösung einer Fraktion durch den Support, gilt für die Leitung der Fraktion ein Fraktionserstellungsverbot von **3-Monaten**. Des Weiteren dürfen die alten Mitglieder nicht mit dem rest eine neue Fraktion gründen (Wenn der Anteil der neuen Fraktion min 70% der alten Mitglieder beinhaltet)
+- die ehemaliege Leitungsebene darf innerhalb der 3-Monats sperre kein Teil einer neuen Leitungsebene sein/werden.
 - Es besteht keine **Fraktionssperre** zwischen der Hauptfraktion und der Unterfraktion. 
 - Die Unterfraktion ist berechtigt, die Hauptfraktion jederzeit aufzufüllen oder bei Schießereien mitzuagieren.
 - Die Hauptfraktion darf **nicht** in die Unterfraktion eintreten, um gemeinsam zu agieren.
@@ -29,7 +30,7 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 - Sollte sich eine Fraktion **NEU** gründen erhält Sie von der **Fraktionsverwaltung** einen  **Aufbauschutz** (Wird im Discord hinterlegt)
 - Der Aufbauschutz hält **eine Woche** an und kann jederzeit von der **Fraktionsverwaltung beendet** werden. Während dieser Zeit darf diese Fraktion **NIEMAND** angreifen. Eine Fraktion die sich im Aufbau daneben benimmt, muss mit konsequenzen der Fraktionsverwaltung rechnen.
 - Bei Gründen der Fraktion wird direkt mit der Fraktionsverwaltung die sichtbaren Merkmale besprochen, dass können unteranderem Farbe und/oder Kleidungsstücke sein (min 2)
-- Fraktionen müssen eine eigene Fraktionsfarbe haben!  Sobald man in einer Fraktion ist, darf nur mit dieser und in dessen Farben und der **Fraktionsweste** agiert werden.
+- Fraktionen müssen eine eigene Fraktionsfarbe haben! Sobald man in einer Fraktion ist, darf nur mit dieser und in dessen Farben und der **Fraktionsweste** agiert werden.
 - Bei Fraktions-Situationen müssen die gegebenen Merkmale immer sichtbar sein, außerhalb dürfen sie ausgezogen werden. 
 - Das Durchführen von Stürmungen ist ausschließlich mit einem angemessenen RP-Hintergrund erlaubt.
 - Es muss ein Konzept eingerecht werden.
@@ -98,8 +99,8 @@ Der Vertrag muss folgende Punkte klar und detailliert regeln:
 ## §3.5 Gangwar
 
 -  Nach Abschluss eines Gangwars trennen sich die beteiligten Parteien, es darf daraus keine neue Situation entstehen. 
-- Fraktionen haben das Recht, nach einem Gangwar beim Continental einen Krieg gegen die gegnerische Fraktion zu beantragen. 
-- Die Entscheidung über die Genehmigung eines Krieges liegt beim Continental, das beurteilt, ob die Bedingungen für einen Krieg erfüllt sind. 
+- Fraktionen haben das Recht, nach einem Gangwar bei der Frakverwaltung einen Krieg gegen die gegnerische Fraktion zu beantragen. 
+- Die Entscheidung über die Genehmigung eines Krieges liegt bei der Frakverwaltung, dass beurteilt, ob die Bedingungen für einen Krieg erfüllt sind. 
 - Es dürfen keine Platten außerhalb der Zone geschossen werden
 - VDM von Spielern im Zonenkampf ist nicht gestattet
 
@@ -112,9 +113,9 @@ Der Vertrag muss folgende Punkte klar und detailliert regeln:
 
 ## §3.7 Fraktionswarn & Auflösung
 
-Warns an eine Fraktion werden vergeben wenn mehrere Regelbrüche und/oder Regelbrüche von mehreren Mitgliedern einer Fraktion entstanden sind. 1 Fraktionswarn hält **2 Wochen**. Wird bei einer Fraktion der 3. Warn ausgesprochen erfolgt direkt darauf die Auflösung.
+Warns an eine Fraktion werden vergeben wenn mehrere Regelbrüche und/oder Regelbrüche von mehreren Mitgliedern einer Fraktion entstanden sind. 1 Fraktionswarn wird im ermessen der Frakverwaltung festgelegt. Wird bei einer Fraktion der 3. Warn ausgesprochen erfolgt direkt darauf die Auflösung.
 
 ## §3.8 Umsetzung/Umlegung von Routen 
 
 Das umsetzen einer Route oder der Routen Schritte ist möglich, hat aber danach einen Cooldown von **1. Monat**
-Das tauschen von Routen zwischen Fraktionen untereinander ist jederzeit möglich in zusammenarbeit mit dem Continental, die Cooldown Regelung fürs umsetzen entfällt **NICHT**
+Das tauschen von Routen zwischen Fraktionen untereinander ist jederzeit möglich in zusammenarbeit mit der Fraktionsverwaltung, die Cooldown Regelung fürs umsetzen entfällt **NICHT**
