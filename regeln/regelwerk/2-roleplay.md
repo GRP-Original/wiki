@@ -7,7 +7,7 @@
 
 ## §2.2 Verhalten:
 
-- Der Name muss ernsthaft / realistisch sein
+- Der Name muss ernsthaft / realistisch sein (Kein Gambo Namen & maximal nur Vor-, mittel und Nachname)
 - Gesundheit und Leben haben **höchste** Priorität.
 - OOC Talk ist verboten
 - Neue / unerfahren Spieler dürfen **nicht** belästigt oder ausgenutzt werden.
@@ -17,7 +17,7 @@
 - Das LSMD darf unter keinen Umständen Bedroht werden
 - Spieler dürfen nur Helme tragen, die nicht kugelsicher sind
 - Fahrzeuge können weder fliegen noch über Berge rasen. Nicht geländegängige Fahrzeuge dürfen nicht über Berge oder auf nicht asphaltierte Straßen benutzt werden.
-- Das Rammen von Autos ist verboten.
+- Das grundlose Rammen von Autos außerhalb eines Konflikts ist verboten (zum Beipspiel PD Verfolgungsjagd).
 - Aus kugelsicheren Fahrzeugen darf nicht geschossen werden.
 - Provozieren, um Fehlverhalten zu erzeugen ist verboten.
 - Maskierte Spieler dürfen nicht anhand ihrer Stimme identifiziert werden.
@@ -34,12 +34,15 @@
 - Es gilt eine New Life Regelung nach einer Not-OP! (Man kann sich nicht an die vorherige Situation erinnern sowie teilnehmen) 
 - An alle Geschehnisse, die während der Bewusstlosigkeit passieren, kann man sich nicht erinnern.
 
-## $2.3 Tiere
+## $2.3 Blacklist Wörter im RP
+- Bibel, Himmel, Suppe, Engel, "ich klär das oben" oder ähnliches was auf das Regelwerk, den Support etc hinweißt.
+
+## $2.4 Tiere
 - Tiere dürfen nicht reden, töten, erschossen, getötet werden.
 - Tiere dürfen sich nicht vor Menschen verwandeln. 
 - Das Tierpaket darf nicht zum eigenen Vorteil genutzt werden
 
-## §2.4 Geiselnahmen & Überfälle & Waffenlieferung
+## §2.5 Geiselnahmen & Überfälle & Waffenlieferung
 
 - Juwelen-, Laden oder Staatsbankraub erfordert mindestens eine Geisel.
 - RP hat Vorrang vor Schussgefechten
@@ -52,7 +55,7 @@
 - In der Nähe befindliche Spieler werden in die RP-Situation eingebunden.
 - Maximal 5000$ pro Geisel, nur Cash erlaubt.
 
-## §2.5 (AFK)-Farming
+## §2.6 (AFK)-Farming
 
 - Das AFK-Farmen auf einer legalen Route ist **erlaubt.**
 - Das AFK-Farmen auf einer illegalen Route ist **erlaubt**, man muss jedoch ansprechbar sein.
