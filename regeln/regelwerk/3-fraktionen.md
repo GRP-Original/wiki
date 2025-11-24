@@ -43,7 +43,7 @@ Im Zweifel wird eine Fraktion mit unter für das Fehlverhalten seiner Mitglieder
 - die Mitglieder einer Unterfraktion müssen ähnliche Merkmale haben wie die Hauptfraktion, welche sind selbstbestimmend mit erlaubnis der Fraktionsverwaltung
 - Eine Unterfraktion muss mindestens aus 5 Mitgliedern bestehen und hat eine Maximalanzahl an 10
 - Arbeiter müssen ein Teil der Unterfraktion sein und stehen unter derem Schutz, heißt wenn gegen den Arbeiter agiert wird, wird auch gegen die Fraktion agiert. 
-- 
+
 ## §3.3 Banden
 
 - Eine Bande besteht ab 2 Personen und obliegt den gleichen Regeln wie jede andere illegale Fraktion.
